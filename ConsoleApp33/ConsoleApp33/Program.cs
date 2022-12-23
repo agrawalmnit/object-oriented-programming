@@ -1,4 +1,7 @@
-﻿using System;
+// code by ishansi agrawal 
+
+
+using System;
 
 namespace ConsoleApp33
 {
